@@ -36,7 +36,7 @@ namespace MatrixAppTest
         private void enviarArquivo()
         {
             Tftp.Net.TftpClient tftpClient;
-            var client = new TftpClient("localhost");
+            //var client = new TftpClient("localhost");
         }
     }
 }
